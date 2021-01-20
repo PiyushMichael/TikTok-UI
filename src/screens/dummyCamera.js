@@ -4,7 +4,7 @@ import { View, Text, StyleSheet } from 'react-native';
 const Dummy1 = () => {
   return (
     <View style={styles.container}>
-      <Text style={styles.dummyText}>Dummy 1</Text>
+      <Text>Dummy 1</Text>
     </View>
   );
 };
@@ -12,13 +12,6 @@ const Dummy1 = () => {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    justifyContent: 'center',
-    alignItems: 'center',
-  },
-  dummyText: {
-    fontWeight: 'bold',
-    fontSize: 32,
-    color: '#555',
   },
 });
 

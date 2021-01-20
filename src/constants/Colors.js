@@ -2,6 +2,7 @@
 export const themeOrange = 'rgb(238,83,35)';
 export const themeYellow = '#f0ad4e';
 export const themeGrey = '#aaa';
+export const themePurple = 'rgb(174,57,232)';
 
 export const primaryGradientColor1 = 'rgb(120,78,250)';
 export const primaryGradientColor2 = 'rgb(174,57,232)';
