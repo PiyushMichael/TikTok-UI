@@ -48,3 +48,35 @@ export const Influencers = [{
     icon: 'shield',
   },
 ];
+
+export const Commentors = [{
+    name: 'Andrew',
+    stats: 12,
+    icon: 'star',
+    comment: 'followed this host',
+  },
+  {
+    name: 'Stella',
+    stats: 25,
+    icon: 'moon',
+    comment: 'Do you have Facebook?',
+  },
+  {
+    name: 'James Christensen',
+    stats: 34,
+    icon: 'shield',
+    comment: 'liked this',
+  },
+  {
+    name: 'Stella',
+    stats: 48,
+    icon: 'paw',
+    comment: 'shared this livestream',
+  },
+];
+
+export const coverImage = 'https://wallpapercave.com/wp/wp3727299.jpg';
+
+export const Friend1 = 'https://i.pinimg.com/736x/cb/95/aa/cb95aa09b2a9358a55fc283fa9179ea9.jpg';
+export const Friend2 = 'https://yt3.ggpht.com/ytc/AAUvwni2VtgMreDDvSnMXDTrurfGgFsLcyxAlOvjH0lm=s900-c-k-c0x00ffffff-no-rj';
+export const Friend3 = 'https://www.the-sun.com/wp-content/uploads/sites/6/2020/07/NINTCHDBPICT000594593579.jpg';

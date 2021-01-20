@@ -1,4 +1,8 @@
 
+export const themeOrange = 'rgb(238,83,35)';
+export const themeYellow = '#f0ad4e';
+export const themeGrey = '#aaa';
+
 export const primaryGradientColor1 = 'rgb(120,78,250)';
 export const primaryGradientColor2 = 'rgb(174,57,232)';
 export const primaryIconColor = 'rgb(255,249,255)';
@@ -18,3 +22,6 @@ export const shieldIcon = 'rgb(9,100,81)';
 export const pawIconGradient1 = 'rgb(96,47,175)';
 export const pawIconGradient2 = 'rgb(125,66,219)';
 export const pawIcon = 'rgb(125,66,242)';
+
+export const shareGradient1 = 'rgb(238,35,45)';
+export const shareGradient2 = 'rgb(255,131,99)';
